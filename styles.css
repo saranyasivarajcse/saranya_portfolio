@@ -1,0 +1,84 @@
+body{
+  background-color: black;
+  color:white;
+}
+
+img {
+  width: 100px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 10px;
+}
+.username{
+  font-weight: bold;
+}
+.projects{
+  float: right;
+  align-items: right;
+  //position:absolute;
+  right:0;
+  color: black;
+  cursor:pointer;
+  display:flex;
+  font-family:Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  margin-right: 35px;
+  transition:all.3s;
+  height: 100vh; 
+  color:white;
+}
+
+.aboutMe{
+  float: right;
+  align-items: right;
+  //position:absolute;
+  right:0;
+  color: black;
+  cursor:pointer;
+  display:flex;
+  font-family:Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  margin-right: 35px;
+  transition:all.3s;
+  height: 100vh; 
+  color:white;
+}
+
+.contactMe{
+  float: right;
+  align-items: right;
+  //position:absolute;
+  right:0;
+  color: black;
+  cursor:pointer;
+  display:flex;
+  font-family:Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  margin-right: 35px;
+  transition:all.3s;
+  height: 100vh; 
+  color:white;
+}
+
+.blogs{
+  float: right;
+  align-items: right;
+  //position:absolute;
+  right:0;
+  color: black;
+  cursor:pointer;
+  display:flex;
+  font-family:Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  margin-right: 35px;
+  transition:all.3s;
+  height: 100vh; 
+  color:white;
+}
+a:link{
+  color: white;
+}
